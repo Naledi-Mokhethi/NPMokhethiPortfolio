@@ -1,17 +1,22 @@
 # Software Developer
 
 ### Introduction
-I am a passionate software developer with a background of web 
-development in C# using the .NET framework. I am currently in ERP 
-development using business central. I am quick to adapt to different 
-programming languages. This is demonstrated by my ability to adapt to 
-the AL programming language after a strict background of developing 
-web applications using primarily C#. 
-  
-I am committed to constantly improving my skills and staying up-to-date 
-with the latest industry trends and technologies. I love being involved in 
-projects that challenge the way I think and take me out of my comfort 
-zone. 
+I am a .NET software developer with a background in C# and
+web development using the .NET framework. I Currently work in ERP 
+development in the FinTech sector, specializing in Microsoft
+Dynamics 365 Business Central.
+
+My ability to adapt to new challenges is demonstrated in my transition
+to AL development, after primarily having a C#-focused background.
+I initially pursued FinTech and Business Central out of curiosity,
+drawn by the opportunity to work with Microsoft technologies.
+However, after over a year in this space, I’ve realized that my true
+passion lies in back-end development and software architecture with C#.
+
+To reinforce my expertise in modern .NET technologies, I recently built 
+a project showcasing my C# and ASP.NET Core skills using .NET 8 
+(the latest LTS version). You can find the link to that repo 
+in my projects section.
 
 ### Education 
 - CENTRAL UNIVERSITY OF 
@@ -53,9 +58,10 @@ and using JavaScript to manipulate the layout.
 • Expanded on HTML and CSS knowledge 
 
 ### Skills
-C# programing language  
+- C# programing language  
 • Basic understanding of Java 
-• Working with the .NET Framework 
+• Working with .NET
+- Working with ASP.NET Core MVC
 • Building reports using Report                    
   Builder 
 • Programming in the AL language  
@@ -64,3 +70,5 @@ C# programing language
 • Source control using GitHub and Azure DevOps
 
 ### Projects
+#### Hospital Queue Application
+- It is an ER Hospital managment system using a linked list priority queue.
