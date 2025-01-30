@@ -59,15 +59,18 @@ and using JavaScript to manipulate the layout.
 
 ### Skills
 - C# programing language
-- Basic understanding of Java
+- SQL and Databse management
 - Working with .NET
 - Working with ASP.NET Core MVC
-- Building reports using Report                    
-  Builder
+- Using Report Builder
 - Programming in the AL language
 - Financial Programming
+- Source control using GitHub and Azure DevOps
+- Working with ASP.NET MVC and ASP.NET Core
+- Working with Algorithms and datastructures
 - Exposed to JavaScript
 - Source control using GitHub and Azure DevOps
+- Working with REST API’s
 
 ### Projects
 #### Hospital Queue Application
@@ -78,4 +81,5 @@ and using JavaScript to manipulate the layout.
 - The patient data is written to the database for record keeping purposes.
 - For more info and a deep-dive into the code please follow this link: [HospitalQueue](https://github.com/Naledi-Mokhethi/HospitalQueue)
 - For a quick demo I have also included a video that will give you a quick view of the code and application walkthrough.
-- Note the site is not publised yet (hosted locally) due to the pending updates highlighted in the README file.
+- VIDEO: 
+- **Please Note** the site is not publised yet (hosted locally) due to the pending updates highlighted in the README file.
