@@ -81,5 +81,5 @@ and using JavaScript to manipulate the layout.
 - The patient data is written to the database for record keeping purposes.
 - For more info and a deep-dive into the code please follow this link: [HospitalQueue](https://github.com/Naledi-Mokhethi/HospitalQueue)
 - For a quick demo I have also included a video that will give you a quick view of the code and application walkthrough.
-- VIDEO: 
+- VIDEO: [HospitalQueueWalkthough](https://drive.google.com/file/d/1C4G6WwJK3VegYWBU1Ud8HUbrzuq4rtIG/view?usp=sharing)
 - **Please Note** the site is not publised yet (hosted locally) due to the pending updates highlighted in the README file.
