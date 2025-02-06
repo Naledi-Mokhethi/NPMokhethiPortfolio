@@ -46,16 +46,17 @@ extension requirements.
  
 #### PROGRAMMING INTERN, CENTLEC, BLOEMFONTEIN  
 FEBRUARY 2023 – August 2023 
-- Collaborate with a team to implement an inhouse – web based 
+- Collaborated with a team to implement an inhouse – web based 
 HRS system using C# ASP.NET Core 5 following the MVC structure. 
 - Used Dapper, Stored Procedures, and Microsoft SQL Server for 
 seamless data management and retrieval.  
-- Employed Microsoft SQL Server Management Studio to optimize 
+- Used Microsoft SQL Server Management Studio to optimize 
 database queries and enhance system performance. 
-- Participate in code reviews and debugging sessions.  
-- Exposure to Basic Frontend development. Integration of views 
+- Participated in code reviews and debugging sessions.  
+- Exposed to Basic Frontend development. Integration of views 
 and using JavaScript to manipulate the layout. 
-- Expanded on HTML and CSS knowledge 
+- Expanded on HTML and CSS knowledge
+- Wrote RESTful API’s using ASP.NET Core Web API. 
 
 ### Skills
 - C# programing language
@@ -70,7 +71,7 @@ and using JavaScript to manipulate the layout.
 - Working with Algorithms and datastructures
 - Exposed to JavaScript
 - Source control using GitHub and Azure DevOps
-- Working with REST API’s
+- Working with RESTful API’s
 
 ### Projects
 #### Hospital Queue Application
