@@ -84,3 +84,9 @@ and using JavaScript to manipulate the layout.
 - For a quick demo I have also included a video that will give you a quick view of the code and application walkthrough.
 - VIDEO: [HospitalQueueWalkthough](https://drive.google.com/file/d/1C4G6WwJK3VegYWBU1Ud8HUbrzuq4rtIG/view?usp=sharing)
 - **Please Note** the site is not publised yet (hosted locally) due to the pending updates highlighted in the README file.
+
+  #### Authenticator RESTful API
+- It is a RESTful API using ASP.NET Core Web API
+- It is a C# app using .NET 8 (Current LTS)
+- The API is being built to decouple authentication from the [HospitalQueue](https://github.com/Naledi-Mokhethi/HospitalQueue) MVC application (Project Above)
+- To see the Web API, Please visit the repo here: [AuthenticationApp](https://github.com/Naledi-Mokhethi/AuthenticationApp)
