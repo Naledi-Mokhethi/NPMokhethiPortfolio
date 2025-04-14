@@ -2,21 +2,7 @@
 
 ### Introduction
 I am a .NET software developer with a background in C# and
-web development using the .NET. I Currently work in ERP 
-development in the FinTech sector, specializing in Microsoft
-Dynamics 365 Business Central.
-
-My ability to adapt to new challenges is demonstrated in my transition
-to AL development, after primarily having a C#-focused background.
-I initially pursued FinTech and Business Central out of curiosity,
-drawn by the opportunity to work with Microsoft technologies.
-However, after over a year in this space, I’ve realized that my true
-passion lies in back-end development and software architecture with C#.
-
-To reinforce my expertise in modern .NET technologies, I recently built 
-a project showcasing my C# and ASP.NET Core skills using .NET 8 
-(the latest LTS version). You can find the link to that repo 
-in the projects section.
+web development using the .NET.
 
 ### Education 
 - CENTRAL UNIVERSITY OF 
